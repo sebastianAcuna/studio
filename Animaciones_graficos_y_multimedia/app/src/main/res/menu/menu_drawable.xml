@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:checked="true"
+            android:title="Animaciones"
+            android:icon="@drawable/ic_filter_none_black_24dp"
+           />
+        <item
+            android:id="@+id/nav_graficos"
+            android:checked="true"
+            android:title="Gráficos"
+            android:icon="@drawable/ic_3d_rotation_black_24dp"
+            />
+        <item
+            android:id="@+id/nav_imagen"
+            android:checked="true"
+            android:title="Imagen"
+            android:icon="@drawable/ic_collections_black_24dp"
+           />
+        <item
+            android:id="@+id/nav_audio"
+            android:checked="true"
+            android:title="Audio"
+            android:icon="@drawable/ic_library_music_black_24dp"/>
+        <item
+            android:id="@+id/nav_video"
+            android:checked="true"
+            android:title="Video"
+            android:icon="@drawable/ic_video_library_black_24dp"
+            />
+
+
+    </group>
+</menu>

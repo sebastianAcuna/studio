@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Persistencia_en_Android</string>
+
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="imagen_centro">imagen_centro</string>
+    <string name="bienvenido_a_parking_control">Bienvenido a Parking Control</string>
+    <string name="inicia_sesi_n_para_empezar">inicia sesión para empezar</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrase_a">Contraseña</string>
+</resources>

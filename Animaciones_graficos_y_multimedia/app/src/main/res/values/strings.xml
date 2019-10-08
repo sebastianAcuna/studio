@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Animaciones_graficos_y_multimedia</string>
+    <string name="default_message_image">Ningún archivo seleccionado</string>
+    <string name="ruta_message">Ruta:</string>
+    <string name="abrir">abrir</string>
+    <string name="capturar">capturar</string>
+    <string name="imagen_seleccionada">imagen seleccionada</string>
+
+    <string name="open_drawer">Open navigation drawer</string>
+    <string name="close_drawer">Close navigation drawer</string>
+    <string name="reproducir_audio">Reproducir audio</string>
+</resources>
